@@ -16,8 +16,13 @@ Feel free to explore my repositories and connect with me. Let's code together! �
 - Email: [mertkadirkayan@gmail.com](mailto:mertkadirkayan@gmail.com)
 - LinkedIn: [Mert Kadir Kayan](https://www.linkedin.com/in/mert-kadir-kayan-03aba3163/)
 
-📊 
+  
+Private📊 
 
+
+  Vue 79.0%  TypeScript  19.5%  Other 1.5%
+
+Public📊 
 
 
 
