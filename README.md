@@ -17,7 +17,7 @@ Thank you for visiting my profile, and I look forward to engaging with like-mind
 
 🔗 Connect with me:
 - Email: [mertkadirkayan@gmail.com](mailto:mertkadirkayan@gmail.com)
-- LinkedIn: [Mert Kadir Kayan](https://www.linkedin.com/in/mert-kadir-kayan-03aba3163/)
+- LinkedIn: [Mert Kadir Kayan]([)](https://www.linkedin.com/in/mert-kayan-03aba3163/)
 
   
 Private📊 
