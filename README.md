@@ -1,8 +1,7 @@
-### Hi there 👋
+### 
 
 Hello! 👋 I'm Mert Kadir Kayan, a passionate Front-End Developer based in Turkiye.
 
-Hello there!
 
 I’m a Frontend Developer with 3+ years of experience building scalable, high-performance web applications using Vue.js, Nuxt.js, TypeScript, and JavaScript. My career spans international teams in Germany, the Netherlands, and Poland, where I contributed to enterprise fintech products, admin dashboards, and e-commerce platforms.
 
