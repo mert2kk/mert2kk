@@ -2,15 +2,19 @@
 
 Hello! 👋 I'm Mert Kadir Kayan, a passionate Front-End Developer based in Turkiye.
 
-💻 My expertise includes JavaScript, Vue.js and TypeScript, and I'm always eager to learn and grow in the ever-evolving field of technology.
+Hello there!
 
-🌐 I've had the privilege of broadening my horizons through experiences like the Erasmus program in Poland, where I delved into web development, Python, and e-commerce. I also recently completed an enriching Erasmus internship in Amsterdam, where I honed my skills in Vue.js, TypeScript, JavaScript, Node.js, Express.js, Tailwind CSS, and more.
+I’m a Frontend Developer with 3+ years of experience building scalable, high-performance web applications using Vue.js, Nuxt.js, TypeScript, and JavaScript. My career spans international teams in Germany, the Netherlands, and Poland, where I contributed to enterprise fintech products, admin dashboards, and e-commerce platforms.
 
-🌱 Currently mastering Full Stack development with a focus on JavaScript, TypeScript, and Vue.js. Eager to contribute to both front-end and back-end solutions.
+I specialize in:
+ • Frontend architecture & clean UI with Vue/Nuxt
+ • End-to-end testing with Cypress
+ • CI/CD workflows using GitLab, Docker, Rancher, Kubernetes
+ • Agile collaboration with cross-functional teams
 
-🤝 I enjoy collaborating on software projects and contributing to innovative solutions.
+With a strong foundation in computer engineering and a passion for modern web development, I’m currently open to remote or hybrid Frontend Developer roles where I can deliver clean, maintainable code and contribute to team success.
 
-Feel free to explore my repositories and connect with me. Let's code together! 😄
+Thank you for visiting my profile, and I look forward to engaging with like-minded professionals!
 
 🔗 Connect with me:
 - Email: [mertkadirkayan@gmail.com](mailto:mertkadirkayan@gmail.com)
