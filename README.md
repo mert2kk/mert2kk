@@ -30,7 +30,6 @@ Public📊
 ![Mert Kadir Kayan's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mert2kk&layout=compact&count_private=true)
 
 
-![Mert Kadir Kayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mert2kk&hide=stars,issues,contribs&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 
 
