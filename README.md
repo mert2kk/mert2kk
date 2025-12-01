@@ -21,14 +21,7 @@ Thank you for visiting my profile, and I look forward to engaging with like-mind
 - My Website: [Mert Kadir Kayan]([)](https://www.mertkadirkayan.xyz)
 
   
-Private📊 
 
-
-  Vue 79.0%  TypeScript  19.5%  Other 1.5%
-
-Public📊 
-
-![Mert Kadir Kayan's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mert2kk&layout=compact&count_private=true)
 
 
 
